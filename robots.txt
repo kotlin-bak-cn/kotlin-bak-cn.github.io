@@ -1,0 +1,5 @@
+User-agent: *
+Host: legacy.kotlincn.net
+
+# Sitemaps
+sitemap: https://legacy.kotlincn.net/sitemap.xml
